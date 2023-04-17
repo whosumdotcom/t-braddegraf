@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-17T20:29:09Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:noonation"
+    },
+    {
+      "Claim": "t:braddegraf"
+    },
+    {
+      "Claim": "mdon:@bdegraf@mastodon.green"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "c7095b73a84f7e9e004cb760",
+    "Timestamp": "2023-04-17T20:30:40Z",
+    "Signature": "2abdc7c4eafefe1e04915dd6d57c7572881edd37eb4dfe8d2aeaf0b9a79f0b4880c88cbd844a20e24ff368b505c8a5e2860cda27f1d8cbe830d738ae7d83cf22a7f8d53733862171fcb3abcfd00475addbe53e7822aa5b451a11ffc3e804b626b353e818701d558b685bf3453e3ef92fa943b68d743a8543328d13fb35cbbfe44d83f4afc6cdde1ae15851e7abfdff1e5f0809d3928aa69457b33e6226e1f18f63e9c7414e5ca5f189e92515625d721f1e475abf8548d5e20cea2c893237d1aed067ae330ff23abdc5ebb6e6a55c03afcfec315a02a3ab1dc97e1c98d94b4de5760d2dee1e4248790a20a127cf7aba6624b90c68a9020b29b2c5debef1ac0233"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "2ae19074e70863fd240f13fb3a8b496e598e1a0f522b08bd2cade1fc3a6a2e9c",
+  "ContentToHash": "v1|gh:noonation,mdon:@bdegraf@mastodon.green,t:braddegraf|2023-04-17T20:29:09Z"
+}
